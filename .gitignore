@@ -1,0 +1,50 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+
+# Gradle files
+.gradle/
+build/
+release/
+local.properties
+gradle-app.setting
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# User-specific files
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/.name
+
+# Log, lock, and temporary files
+*.log
+*.lock
+*.tmp
+*.bak
+*.swp
+*.orig
+*.orig.*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
